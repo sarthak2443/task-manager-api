@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.7
+Flask-Bcrypt==1.0.1
+Flask-JWT-Extended==4.6.0
+marshmallow==3.21.2
+flasgger==0.9.7.1
+pytest==8.3.2
+pytest-cov==5.0.0
+python-dotenv==1.0.1
