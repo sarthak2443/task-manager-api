@@ -27,5 +27,6 @@ python run.py
 ## Quickstart
 
 ## Tested on Postman
-![Postman Demo](https://raw.githubusercontent.com/sarthak2443/task-manager-api/main/image.png)
+![Postman Demo](https://raw.githubusercontent.com/sarthak2443/task-manager-api/main/image.jpg)
+
 
