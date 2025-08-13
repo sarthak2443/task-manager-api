@@ -27,6 +27,6 @@ python run.py
 ## Quickstart
 
 Tested on Postman
-<img width="1280" height="755" alt="image" src="https://github.com/user-attachments/assets/5b8063a7-9981-4581-809e-7156d37ece21" />
+<img width="1280" height="755" alt="image" src="https://github.com/sarthak2443/task-manager-api/image.png" />
 
 
